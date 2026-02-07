@@ -51,7 +51,7 @@ Mini-Calculator/
 
 Download or clone this repository:
 
-git clone https://github.com/your-username/mini-calculator.git
+git clone: https://harmanps-77.github.io/Basic-Arithmetic-Calculator/
 
 
 Open the project folder.
